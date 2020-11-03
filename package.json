@@ -1,0 +1,24 @@
+{
+  "name": "moviedetailsminiapp",
+  "version": "0.0.35",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "ern": {
+    "version": "1000.0.0",
+    "moduleType": "ern-miniapp",
+    "miniAppName": "MovieDetailsMiniApp"
+  },
+  "keywords": [
+    "ern-miniapp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electrode-io/MovieDetailsMiniApp.git"
+  }
+}
