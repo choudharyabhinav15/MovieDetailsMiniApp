@@ -9,7 +9,7 @@ To run this app stand alone simply clone the repo and execute the ern run comman
 
 ```bash
 $ git clone https://github.com/choudharyabhinav15/MovieDetailsMiniApp.git
-$ cd MovieListMiniApp
+$ cd MovieDetailsMiniApp
 $ yarn install
 ```
 
